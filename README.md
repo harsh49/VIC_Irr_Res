@@ -2,7 +2,7 @@
 
 We have simulated water budget and energy budget over Indian subcontinental basins, using three scenarios from the Variable Infiltration Capcity model by including irrigation and reservoir practices in it:
 
-1). No irrigation and reservoir (VIC-NATURAL) 
+1). No irrigation and reservoir (VIC-NATURAL) <br />
 2). Free irrigation and no reservoir (VIC-FREE)
 3). Reservoir and restricted irrigation (VIC-MANAGED)
 
