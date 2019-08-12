@@ -19,6 +19,6 @@ Fig8: Same as Fig6 but for LST.
 Fig9: Annual ET change between FREE and MANAGED scenario.
 Fig10: Annual Latent Heat Flux and Sensible Heat Flux change between NATURAL and MANAGED scenario.
 
-More detail about work is availble in "Roles of irrigation and reservoir operations in modulating terrestrial water and energy budgets in the Indian sub-continental river basins" paper in JGR-Atmosphere. 
+More detail is availble in "Roles of irrigation and reservoir operations in modulating terrestrial water and energy budgets in the Indian sub-continental river basins" paper in JGR-Atmosphere. 
 
 Harsh Shah
