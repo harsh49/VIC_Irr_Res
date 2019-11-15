@@ -19,6 +19,6 @@ Fig8: Same as Fig6 but for LST. <br />
 Fig9: Annual ET change between VIC-FREE and VIC-MANAGED run. <br />
 Fig10: Annual latent heat flux and sensible heat flux change between VIC-NATURAL and VIC-MANAGED run. <br />
 
-More detail is availble in "Roles of irrigation and reservoir operations in modulating terrestrial water and energy budgets in the Indian sub-continental river basins" paper in JGR-Atmosphere. <br />
+More detail is available in "Roles of irrigation and reservoir operations in modulating terrestrial water and energy budgets in the Indian sub-continental river basins" paper in JGR-Atmosphere. <br />
 
 Harsh Shah
