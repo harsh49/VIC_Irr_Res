@@ -11,7 +11,7 @@ Here, we have shared results in below folders.
 Fig1: Annual precipitation (P) and reservoir locations used in study. <br />
 Fig2: Satellite (MODIS and GLEAM) based annual evapotranspiration (ET) and VIC-MANAGED simulated annual ET. <br />
 Fig3: Annual land surface temperature (LST) from MODIS, AATSR and VIC-MANAGED. <br />
-Fig4: Mean monthly observed and simulated reservoir storgae. <br />
+Fig4: Mean monthly observed and simulated reservoir storage. <br />
 Fig5: P, ET, total runoff (TR) and LST from one grid. <br />
 Fig6: Annual ET change between VIC-NATURAL and VIC-MANAGED run. <br />
 Fig7: Same as Fig6 but for TR. <br /> 
